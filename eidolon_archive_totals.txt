@@ -1,0 +1,33 @@
+All stats x%: All stats +33%
+Armor Piercing x: Armor Piercing +75
+CRIT DMG x%: CRIT DMG +81%
+CRIT DMG to Boss Monsters x%: CRIT DMG to Boss Monsters +24%
+CRIT DMG to Players x%: CRIT DMG to Players +6%
+Combo chance x%: Combo chance +21%
+DMG x% against Dark targets: DMG +33% against Dark targets
+DMG x% against Flame targets: DMG +33% against Flame targets
+DMG x% against Holy targets: DMG +33% against Holy targets
+DMG x% against Lightning targets: DMG +33% against Lightning targets
+DMG x% against Storm targets: DMG +33% against Storm targets
+DMG x% against Ice targets: DMG +27% against Ice targets
+DMG dealt x%: DMG dealt +99%
+DMG dealt to Boss Monsters x%: DMG dealt to Boss Monsters +54%
+DMG dealt to Elites x%: DMG dealt to Elites +51%
+DMG dealt to Players x%: DMG dealt to Players +57%
+DMG taken x%: DMG taken -36%
+DMG taken from Boss Monsters x%: DMG taken from Boss Monsters -36%
+DMG taken from Elites x%: DMG taken from Elites -30%
+DMG taken from Players x%: DMG taken from Players -36%
+Damage of Dark Skills x%: Damage of Dark Skills +51%
+Damage of Flame Skills x%: Damage of Flame Skills +51%
+Damage of Holy Skills x%: Damage of Holy Skills +51%
+Damage of Ice Skills x%: Damage of Ice Skills +51%
+Damage of Lightning Skills x%: Damage of Lightning Skills +51%
+Damage of Physical Skills x%: Damage of Physical Skills +45%
+Damage of Storm Skills x%: Damage of Storm Skills +51%
+Main Weapon DMG x%: Main Weapon DMG +40%
+Max CRIT DMG x%: Max CRIT DMG +14%
+Max DMG dealt x%: Max DMG dealt +36%
+Move SPD x%: Move SPD +60%
+Normal ATK SPD x%: Normal ATK SPD +18%
+PEN x%: PEN +129%

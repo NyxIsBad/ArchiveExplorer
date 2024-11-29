@@ -39,9 +39,15 @@ def sum_sentences(a, b):
             value_b_int = int(value_b)
         total = value_a_int + value_b_int
         if total < 0:
-            return f"{start_a}{total}%{rest_a}"
+            if value_a[-1] == "%":
+                return f"{start_a}{total}%{rest_a}"
+            else:
+                return f"{start_a}{total}{rest_a}"
         else:
-            return f"{start_a}+{total}%{rest_a}"
+            if value_a[-1] == "%":
+                return f"{start_a}+{total}%{rest_a}"
+            else:
+                return f"{start_a}+{total}{rest_a}"
     else:
         # Return both sentences if they don't match
         return f"{a}, {b}"

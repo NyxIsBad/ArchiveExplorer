@@ -104,23 +104,23 @@ Salome,Bastet|PEN +3%
 Summer Persephone,Summer Alucard|DMG dealt +3%
 Summer Persephone,Summer Michaela|PEN +6%
 Abe no Seimei,Seiryuu|Move SPD +3%
-Abe no Seimei,Tsukuyomi|Armor Piercing +6%
+Abe no Seimei,Tsukuyomi|Armor Piercing +6
 Rachel,Eternia|PEN +6%
 Rachel,Raphael|DMG dealt to Elites +6%
-Nekomata,Tsubaki|Armor Piercing +9%
+Nekomata,Tsubaki|Armor Piercing +9
 Nekomata,Izanami|PEN +3%
 Queen of Hearts,Qingniao|PEN +6%
 Queen of Hearts,Andrea|DMG dealt +9%
 Santa Raphael,Santa Muse|Move SPD +3%
 Santa Idun,Santa Raphael|PEN +6%
 Santa Idun,Santa Amaterasu|DMG +9% against Ice targets
-Hestia,Ares|Armor Piercing +15%
+Hestia,Ares|Armor Piercing +15
 Hestia,Elizabeth|DMG taken from Elites -6%
 Festival Elizabeth,Sif|PEN +6%
 Festival Elizabeth,Skuld|DMG dealt to Boss Monsters +6%
 Little Red Riding Hood,Ullr|PEN +6%
-Little Red Riding Hood,Serena|Armor Piercing +9%
-Little Red Riding Hood,Cesela|Armor Piercing +6%
+Little Red Riding Hood,Serena|Armor Piercing +9
+Little Red Riding Hood,Cesela|Armor Piercing +6
 Komainu,Hestia|PEN +6%
 Komainu,Halloween Zashi|DMG dealt +3%
 Komainu,Cerberus|DMG dealt to Elites +6%
@@ -129,10 +129,10 @@ Percival,Cyril|CRIT DMG +6%
 Siren,Hebe|PEN +6%
 Siren,Eirene|Damage of Ice Skills +6%
 Summer Iwanaga-hime,Summer Nidhogg|CRIT DMG +6%
-Summer Iwanaga-hime,Summer Michaela|Armor Piercing +6%
+Summer Iwanaga-hime,Summer Michaela|Armor Piercing +6
 Frigga,Harmonia|PEN +6%
 Frigga,Tanith|DMG dealt +3%
-Hodur,Frigga|Armor Piercing +6%
+Hodur,Frigga|Armor Piercing +6
 Hodur,Alucard|PEN +6%
 Shuten-Doji,Orochi|DMG dealt +9%
 Shuten-Doji,Nekomata|CRIT DMG +9%
@@ -140,7 +140,7 @@ Xiaoqiao,Sakuya-hime|PEN +6%
 Xiaoqiao,Diao Chan|Damage of Holy Skills +6%
 Santa Komainu,Santa Raphael|PEN +3%
 Santa Komainu,Santa Kingyo-hime|PEN +6%
-Santa Kingyo-hime,Santa Idun|Armor Piercing +9%
+Santa Kingyo-hime,Santa Idun|Armor Piercing +9
 New Year Hestia,Percival|Combo chance +3%
 New Year Hestia,Festival Elizabeth,Festival Succubus|Damage of Physical Skills +6%
 Miketsukami,Sif|Max CRIT DMG +3%
@@ -163,7 +163,7 @@ Anubis,Cleopawtra,Salome|DMG +6% against Flame targets
 Anubis,Maja,Halloween Zephyrine|All stats +6%
 Thor,Sigrun,Skuld|DMG +6% against Lightning targets
 Thor,Ghodroon,Jormungand|Damage of Physical Skills +6%
-Christmas Andrea,Tigerius Caesar,Santa Komainu|Armor Piercing +9%
+Christmas Andrea,Tigerius Caesar,Santa Komainu|Armor Piercing +9
 Christmas Andrea,Benkei,Christmas Sakuya-hime|Main Weapon DMG +6%
 Christmas Sakuya-hime,Nazrudin,Santa Kingyo-hime|DMG dealt to Boss Monsters +3%
 New Year Queen of Hearts,Eligos,Festival Muramasa|All stats +6%
